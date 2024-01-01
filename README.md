@@ -24,7 +24,7 @@
 4. Instructions:
 
 * Fork this Code: React Todo List Template.
-* Implement the Todo List functionality based on the given template.
+* Implement the Todo List app.
 * Add comments where necessary to explain your code.
 * Ensure the application is bug-free and functions as expected.
 * Commit your changes to a public repository on GitHub and share the link with us.
